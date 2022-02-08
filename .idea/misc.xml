@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Nutrition/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Nutrition/app/src/main/res/layout/fragment_ingrdient_detail.xml" value="0.17708333333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Nutrition/app/src/main/res/layout/fragment_ingredient.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Nutrition/app/src/main/res/layout/item_row_nutrition.xml" value="0.17708333333333334" />
       </map>
     </option>
   </component>
