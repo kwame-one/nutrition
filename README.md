@@ -7,7 +7,7 @@
 - Any device running android OS
 ---
 
-### Assignment Details
+### Details
 Assignment i worked on is labelled Nutritional Ingredients
 The assignment was quite okay per my understanding of it
 I found it quite challenging as i am still familiarizing myself with kotlin. I mostly use java for building apps
